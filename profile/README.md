@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Banner Text 16x9 FHD" src="https://github.com/user-attachments/assets/9262177a-ae74-4165-b8f7-24457dd936a3" />
 <div align="center">
 
 # Central Church Bristol
